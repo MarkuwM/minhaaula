@@ -16,6 +16,8 @@ h2 {
 h3 {
     color: seagreen;
     font-family: Verdana;
+    font-size: 25px;
+    border-bottom: 2px solid black;
 }
 
 ul {
