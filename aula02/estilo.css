@@ -1,0 +1,50 @@
+html {
+    background-color: black;
+}
+
+.text {
+    text-align: center;
+    color: white;
+    background-color: blue;
+    border: 3px solid white;
+    font-size: 20px;
+    text-indent: 5%;
+}
+
+.text:hover {
+    background-color: white;
+    border: solid blue 3px;
+    color: blue;
+}
+
+.botao {
+    font-family: Verdana;
+    text-align: center;
+    color: green;
+    background-color: white;
+    font-size: 110%;
+    text-decoration: none;
+    border: solid greenyellow 3px;
+    padding: 10px;
+    border-radius: 5px 10px 20px 2px;
+}
+
+.botao:hover {
+    background-color: greenyellow;
+    border: solid white 3px;
+    color: white;
+}
+
+#p1 {
+    text-align: center;
+    color: blue;
+    background-color: red;
+    font-size: 20px;
+    text-indent: 5%;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+}
