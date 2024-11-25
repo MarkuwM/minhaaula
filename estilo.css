@@ -1,0 +1,39 @@
+
+p {
+    text-indent: 5%;
+    font-family: Verdana;
+    text-align: justify;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-family: Verdana;
+    font-size: 30px;
+    background-color: seagreen;
+}
+
+h3 {
+    color: seagreen;
+    font-family: Verdana;
+    font-size: 25px;
+    border-bottom: 2px solid black;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+a {
+    font-family: Verdana;
+    font-size: 20px;
+    color: white;
+    background-color: darkgreen;
+    border: 1px solid black;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: blue;
+}
