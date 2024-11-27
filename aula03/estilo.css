@@ -1,0 +1,41 @@
+#didi {
+    font-size: 50px;
+    margin: 2px;
+    background-color: red;
+}
+
+#Ad1 {
+    margin: 10px 15px 5px 25px;
+    background-color: blue;
+    font-size: 50px;
+    padding: 50px;
+}
+
+#Ad2 {
+    margin: 10px 15px 5px 25px;
+    background-color: green;
+    font-size: 50px;
+    padding-top: 15px;
+    padding-right: 60px;
+    padding-bottom: 45px;
+    padding-left: 25px;
+    font-family: Verdana;
+    color: white;
+}
+
+.margem {
+    margin-top: 10px;
+    margin-right: 15px;
+    margin-bottom: 5px;
+    margin-left: 25px;
+}
+
+button {
+    color: aliceblue;
+    background-color: midnightblue;
+    border: 3px darkblue solid;
+}
+
+div {
+    display: inline;
+}
