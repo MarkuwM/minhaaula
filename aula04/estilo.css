@@ -1,32 +1,31 @@
-div {
-    font-family: Verdana;
-}
+body {
+    background-color: black;
+   }
 
 #quadradao {
     margin: auto;
     width: 50%;
-    background-color: teal;
+    background-color: lightskyblue;
     padding: 10px;
 }
 
 #quadrado1 {
     margin: 10px;
     margin-bottom: 20px;
-    background-color: lightgreen;
-    padding: 5%;
+    background-color: lightgrey;
+    padding: 2%;
 }
 
 .conteudo1 {
-    display: inline;
-    margin: 2px;
+    display: inline-block;
+    margin-right: 2px;
     padding: 30px;
-    padding-right: 15%;
-    background-color: sandybrown;
+    width: 26%;
 }
 
 #quadrado2 {
     margin: 10px;
-    background-color: lightgreen;
+    background-color: lightgrey;
     padding: 1%;
 }
 
@@ -54,6 +53,7 @@ div {
 
 #cont3 {
     background-color: green;
+
 }
 
 #cont4 {
@@ -62,13 +62,12 @@ div {
 
 #cont5 {
     background-color: orange;
-    padding-right: 45%;
-    margin-right: 17px;
+    padding-right: 51%;
+    margin-right: 48px;
 }
 
 #cont6 {
     background-color: purple;
-    margin-left: 17px;
 }
 
 #cont7 {
