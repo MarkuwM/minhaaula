@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    font-family: Verdana;
+}
+.titulo{
+    font-family: Verdana;
+    color: royalblue;
+}
+.titulo2{
+    text-align: center;
+    font-family: Verdana;
+    color: royalblue;
+    margin-bottom: 20px;
+}
+.destaque{
+    background-color: rgb(222, 240, 255);
+    border: solid 1px rgb(161, 161, 255);
+    border-radius: 5px;
+    margin: 20px;
+    padding: 15px;
+    width: 80%;
+}
+
+section{
+    padding: 20px;
+    text-align: center;
+    font-family: Verdana;
+}
+
+#quadrado{
+    margin: auto;
+    width: 60%;
+}
+
+.banner{
+    width: 100%;
+}
+
+nav{
+    background-color: cornflowerblue;
+    width: 100%;
+    justify-content: end;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li{
+    display: inline-block;
+}
+
+nav ul li a{
+    display: block;
+    padding: 15px;
+    font-family: Verdana;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+nav ul li a:hover{
+    color: black;
+    background-color: rgb(7, 82, 221);
+}
+
+div a{
+    text-decoration: none;
+    color: royalblue;
+}
+
+.produtos{
+    justify-content: center;
+    padding: 10px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.card{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 10px;
+}
+.card img{
+    width: 150px;
+    display: block;
+    margin: auto;
+}
+.card h3{
+    color: orange;
+}
+.card h4{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contato{
+    background-color: rgb(250, 250, 250);
+    border: solid 1px lightgray;
+    border-radius: 5px;
+    margin: 20px auto;
+    font-family: Verdana;
+    width: 40%;
+    padding: 20px;
+}
+.acesso{
+    background-color: rgb(250, 250, 250);
+    border: solid 1px lightgray;
+    border-radius: 5px;
+    margin: 20px auto;
+    font-family: Verdana;
+    width: 80%;
+    padding: 20px;
+    max-width: 400px;
+}
+#linkcadastro{
+    text-align: center;
+    margin-top: 10px;
+}
+label{
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: solid 1px  lightgray;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+textarea{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: solid 1px  lightgray;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+button{
+    font-size: 16px;
+    background-color: rgb(74, 116, 243);
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    display: block;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(49, 77, 161);
+}
+
+h3{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+footer{
+    padding: 10px;
+    background-color: lightgray;
+}
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.fotodopix{
+    width: 50px;
+    margin-right: 10px;
+}
+.textorodape{
+    color: gray;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 10px;
+}
