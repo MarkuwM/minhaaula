@@ -12,4 +12,4 @@ function previdencia(salario){
     }
 }
 var imposto = previdencia(3000)
-document.write('<h1>Seu INSS é ${imposto}</h1>')
+document.write(`<h1>Seu INSS é ${imposto}</h1>`)
