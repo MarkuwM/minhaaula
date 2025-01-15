@@ -12,6 +12,6 @@ caixa.innerHTML = '<a href="#">Clique Aqui</a>'
 alert(caixa.innerHTML)
 
 var foto = document.getElementById('foto')
-foto.setAttribute('src', '')
-foto.setAttribute('alt', '')
-foto.setAttribute('width', '')
+foto.setAttribute('src', 'e46.webp')
+foto.setAttribute('alt', 'bmw e46')
+foto.setAttribute('width', '400')
