@@ -31,6 +31,10 @@ nav ul li a:hover{
     margin-top: 20px;
     font-family: Verdana;
 }
+.Centralizar{
+    justify-content: center;
+    margin: 20px;
+}
 .voltar{
     text-decoration: none;
     border-radius: 5px;
@@ -38,5 +42,4 @@ nav ul li a:hover{
     color: white;
     background-color: slateblue;
     padding: 10px;
-    
 }

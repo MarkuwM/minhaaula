@@ -9,5 +9,4 @@ function vetores() {
     return C;
 }
 
-var multiplicacao = vetores();
-document.write("Resultado da multiplicação: " + multiplicacao.join(", "));
+document.write("Resultado da multiplicação: " + vetores().join(", "));
