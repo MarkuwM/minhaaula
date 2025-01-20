@@ -1,0 +1,31 @@
+#Suprema{
+    width: 50%;
+    background-color: lightskyblue;
+    margin: auto;
+}
+h1{
+    font-family: Verdana;
+    color: blue;
+    text-align: center;
+}
+
+#n1, #n2{
+    font-size: 25px;
+    display: block;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+#Suprema fieldset{
+    padding: 5px;
+}
+
+#Suprema fieldset span{
+    display: block;
+}
+
+button{
+    background-color: khaki;
+    padding: 10px 30px;
+    width: 100%;
+}
