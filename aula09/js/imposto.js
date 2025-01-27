@@ -27,7 +27,7 @@ function calcular(){
 }
 
 botao.addEventListener('click', calcular)
-campo.addEventListener('keydown', function(event){
+botao.addEventListener('keydown', function(event){
     if(event.key == 'Enter'){
         calcular()
     }
